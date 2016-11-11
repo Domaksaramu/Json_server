@@ -1,0 +1,45 @@
+[
+   {
+      "Capital" : "129",
+      "Code" : "ABW",
+      "Code2" : "AW",
+      "Continent" : "North America",
+      "CountryCode" : "ABW",
+      "GNP" : "828.00",
+      "GNPOld" : "793.00",
+      "GovernmentForm" : "Nonmetropolitan Territory of The Netherlands",
+      "HeadOfState" : "Beatrix",
+      "IndepYear" : "NULL",
+      "IsOfficial" : "T",
+      "Language" : "Dutch",
+      "LifeExpectancy" : "78.4",
+      "LocalName" : "Aruba",
+      "Name" : "Aruba",
+      "Percentage" : "5.3",
+      "Population" : "103000",
+      "Region" : "Caribbean",
+      "SurfaceArea" : "193.00"
+   },
+   {
+      "Capital" : "129",
+      "Code" : "ABW",
+      "Code2" : "AW",
+      "Continent" : "North America",
+      "CountryCode" : "ABW",
+      "GNP" : "828.00",
+      "GNPOld" : "793.00",
+      "GovernmentForm" : "Nonmetropolitan Territory of The Netherlands",
+      "HeadOfState" : "Beatrix",
+      "IndepYear" : "NULL",
+      "IsOfficial" : "F",
+      "Language" : "English",
+      "LifeExpectancy" : "78.4",
+      "LocalName" : "Aruba",
+      "Name" : "Aruba",
+      "Percentage" : "9.5",
+      "Population" : "103000",
+      "Region" : "Caribbean",
+      "SurfaceArea" : "193.00"
+   }
+]
+
